@@ -1,0 +1,18 @@
+honeybee.radiance.recipe.threephase package
+===========================================
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 4
+
+   honeybee.radiance.recipe.threephase.gridbased
+
+Module contents
+---------------
+
+.. automodule:: honeybee.radiance.recipe.threephase
+   :members:
+   :undoc-members:
+   :show-inheritance:

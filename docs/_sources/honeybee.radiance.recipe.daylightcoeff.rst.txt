@@ -1,0 +1,19 @@
+honeybee.radiance.recipe.daylightcoeff package
+==============================================
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 4
+
+   honeybee.radiance.recipe.daylightcoeff.gridbased
+   honeybee.radiance.recipe.daylightcoeff.imagebased
+
+Module contents
+---------------
+
+.. automodule:: honeybee.radiance.recipe.daylightcoeff
+   :members:
+   :undoc-members:
+   :show-inheritance:

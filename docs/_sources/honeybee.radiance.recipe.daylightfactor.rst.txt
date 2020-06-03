@@ -1,0 +1,18 @@
+honeybee.radiance.recipe.daylightfactor package
+===============================================
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 4
+
+   honeybee.radiance.recipe.daylightfactor.gridbased
+
+Module contents
+---------------
+
+.. automodule:: honeybee.radiance.recipe.daylightfactor
+   :members:
+   :undoc-members:
+   :show-inheritance:

@@ -1,0 +1,19 @@
+honeybee.energyplus package
+===========================
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 4
+
+   honeybee.energyplus.filemanager
+   honeybee.energyplus.geometryrules
+
+Module contents
+---------------
+
+.. automodule:: honeybee.energyplus
+   :members:
+   :undoc-members:
+   :show-inheritance:
